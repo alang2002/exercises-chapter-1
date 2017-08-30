@@ -1,0 +1,33 @@
+1a) b
+1b) c
+1c) c
+1d) a
+1e) c
+1f) a
+1g) c
+1h) c
+1i) c
+1j) a
+
+2a) a
+2b) c
+2c) c
+2d) b
+2e) c
+2f) b
+2g) c
+2h) c
+2i) a
+2j) b
+
+3a) Students, Teachers, Subject
+3b) Type, Cost, Length
+3c) Amount, Where From, Tax
+
+4a) Movie Title, Movie Genre, Movie Length
+4b) Team Name, Team Logo, Team Colors
+4c) Musician Name, Instrument Type, Fame
+
+5a) School, Playgrounds, PlacesIKnow
+5b) Food, Combinations, PastaAndSeafood
+5c) Chairs, Antiques, GrandmasItems
